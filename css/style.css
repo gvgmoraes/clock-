@@ -1,0 +1,16 @@
+body{
+	background-color: #070D6E;
+	padding: 50px;
+
+
+}
+
+#clock{
+	background-color: black;
+	color: limegreen;
+	text-align: center;
+	margin: 0 auto;
+	width:500px;
+	min-width: 30%
+	font-family: "Courier New", Courier;
+	font-size:22px;
